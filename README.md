@@ -1,0 +1,1 @@
+This repository demonstrates a common but difficult-to-diagnose bug in React Native applications involving third-party libraries. The bug is characterized by cryptic error messages that don't provide enough information for easy debugging.  The solution involves careful examination of library documentation, dependency versions, and native module integration.
